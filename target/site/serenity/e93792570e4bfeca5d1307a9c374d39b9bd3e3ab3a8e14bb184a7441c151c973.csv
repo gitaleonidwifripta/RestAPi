@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"order","GET All Order","SUCCESS","2023-05-09T18:56:19.6627503+07:00[Asia/Jakarta]","0.0","0.28"
+"order","POST As admin I have be able to create new order","SUCCESS","2023-05-09T18:56:19.9699302+07:00[Asia/Jakarta]","0.0","0.25"
+"order","GET As an admin I have be able to get id order","SUCCESS","2023-05-09T18:56:20.2443022+07:00[Asia/Jakarta]","0.0","0.29"

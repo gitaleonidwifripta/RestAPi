@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="order" skipped="0" tests="3" time="0.83" timestamp="2023-05-09 06:56:19"><testcase name="GET All Order"/><testcase name="POST As admin I have be able to create new order"/><testcase name="GET As an admin I have be able to get id order"/></testsuite>

@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Authentication","Login with registered or correct email and password","SUCCESS","2023-05-09T18:56:11.517538+07:00[Asia/Jakarta]","0.0","0.49"
+"Authentication","view user information","SUCCESS","2023-05-09T18:56:12.221655+07:00[Asia/Jakarta]","0.0","0.61"
